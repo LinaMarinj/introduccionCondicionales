@@ -9,3 +9,19 @@ es decir, cuando es falso.
 -Anidado (if-else, if): Aplica despues del Compuesto, y evalua una nueva condición.
 
 -Multiple (Switch): Es un menú de opcciones.
+
+
+
+&& las dos deben ser verdaderas
+ V y F dara falso
+ F y V dara falso
+ F y F dara falso 
+
+
+
+
+Or si almenos una de las dos condiciones es verdadera el resultado final sera verdadero 
+V  y V  verdadero 
+V y F verdadero
+F y V verdadera
+F y F falso 
