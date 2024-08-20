@@ -1,0 +1,11 @@
+condicionales: estructura de desicion que permite tomar una accion bajo una 
+condicion dada (operadores lógicos, un resultado booleano: true or false)
+
+-simple (if): Aplica si y solo si el resultado booleano es verdadero
+
+-Compuesto (if-else): Aplica cuando el condicional simple no se cumple, 
+es decir, cuando es falso.
+
+-Anidado (if-else, if): Aplica despues del Compuesto, y evalua una nueva condición.
+
+-Multiple (Switch): Es un menú de opcciones.
